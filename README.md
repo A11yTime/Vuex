@@ -1,5 +1,5 @@
-# vuex-app
-
+# vuex:
+#### Vues is a state managment pattern for complex application.
 ## Install vuex --> npm install vuex@next --save
 #### Terminology:
 * State: The data you store in Vuex follows the same rules as the data in a Vue instance
